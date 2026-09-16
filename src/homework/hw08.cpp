@@ -6,6 +6,8 @@ static bool ID8() {
     // Add your student ID and message here, in ascending student ID order.
     V.emplace_back("112062212", "Want to learn interesting and useful knowledge : D");
     V.emplace_back("113062211", "I think this course is very useful for me now.");
+    V.emplace_back("115062536",
+                   "I want to learn how to use C++ and Git to complete a large project.");
     V.emplace_back("123000009", "Example student: I want to learn C++ and Git.");
 
     return isGoodVector(8, V);
