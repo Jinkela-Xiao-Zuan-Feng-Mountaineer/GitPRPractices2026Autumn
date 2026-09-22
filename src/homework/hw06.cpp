@@ -8,6 +8,7 @@ static bool ID6() {
     V.emplace_back("112062119", "I hope to gain a lot from this course !");
     V.emplace_back("112062313", "I want to enhance my understanding of modern C++.");
     V.emplace_back("113062118", "I want to learn more coding about jobs.");
+    V.emplace_back("113062338", "I hope to improve my C++ and Git collaboration skills.");
     V.emplace_back(
         "114062216",
         "在茈發動前的41秒內，新宿再次響起了五條悟的吟唱。“九綱”“偏光”“烏與聲明”“表裡之間”\
