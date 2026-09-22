@@ -7,6 +7,7 @@ static bool ID2() {
     V.emplace_back("112062203", "C--");
     V.emplace_back("112062315", "Hello!");
     V.emplace_back("113062312", "hi");
+    V.emplace_back("113062701", "hELLO c++.");
     V.emplace_back("114062328", "老師請問可以等四年讓我碩士讀完嗎");
     V.emplace_back("123000005", "Example student: I want to learn C++ and Git.");
 
