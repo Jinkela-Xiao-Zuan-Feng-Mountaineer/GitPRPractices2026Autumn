@@ -5,6 +5,7 @@ static bool ID2() {
 
     // Add your student ID and message here, in ascending student ID order.
     V.emplace_back("112062203", "C--");
+    V.emplace_back("112062223", "早安你好");
     V.emplace_back("112062315", "Hello!");
     V.emplace_back("113062312", "hi");
     V.emplace_back("114062328", "老師請問可以等四年讓我碩士讀完嗎");
