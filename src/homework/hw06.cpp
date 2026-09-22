@@ -20,6 +20,7 @@ static bool ID6() {
                                 宿儺發了瘋阻止的只是五條悟剛剛開發的技能， 五條悟在茈發動前的短短41秒內見招拆招，完\
                                 成了數個幾乎可以編入教科書的隨機應變操作。虎杖呆呆的看著屏幕仍不可置信，“也就是說……”\
                                 ，“沒錯，是五條悟贏了！”");
+    V.emplace_back("114065501", "In case of fire: `git commit`, `git push`, leave building.");
     V.emplace_back("123000001", "Example student: I want to learn C++ and Git.");
 
     return isGoodVector(6, V);
