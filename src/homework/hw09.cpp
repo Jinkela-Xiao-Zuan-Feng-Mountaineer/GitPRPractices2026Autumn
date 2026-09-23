@@ -9,6 +9,7 @@ static bool ID9() {
     V.emplace_back("112062112", "Please add me to the class thru extra selection QAQ");
     V.emplace_back("112062143", "Teacher looks sooo young.");
     V.emplace_back("112062224", "Hope to learn more.");
+    V.emplace_back("112062303", "希望這學期能紮實打好 C++ 基礎，也學會用 Git 管理自己的專案。");
     V.emplace_back("113062207",
                    "Oh Love, what is Love? How can you look so cute when you're looking at me?");
     V.emplace_back("123000006", "Example student: I want to learn C++ and Git.");
