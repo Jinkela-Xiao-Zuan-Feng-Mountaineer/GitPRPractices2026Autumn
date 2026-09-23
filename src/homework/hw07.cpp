@@ -9,10 +9,10 @@ static bool ID7() {
     V.emplace_back("112062226", "The quick brown fox jumps over the lazy dog");
     V.emplace_back("113062331", "hi");
     V.emplace_back("114062631", "Snoopy has a lot of chocolate.");
+    V.emplace_back("115065507", "Learning how to write C++");
     V.emplace_back("123000008", "Example student: I want to learn C++ and Git.");
     V.emplace_back("zr_11420CS3424",
                    "Hope to get a better grasp of modern C++ and large project management.");
-
     return isGoodVector(7, V);
 }
 
