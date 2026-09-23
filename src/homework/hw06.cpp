@@ -5,6 +5,7 @@ static bool ID6() {
 
     // Add your student ID and message here, in ascending student ID order.
     V.emplace_back("109350025", "I want to become a better C++ programmer.");
+    V.emplace_back("112006218", "I am soooo cooked");
     V.emplace_back("112062119", "I hope to gain a lot from this course !");
     V.emplace_back("112062214", "耶");
     V.emplace_back("112062313", "I want to enhance my understanding of modern C++.");
