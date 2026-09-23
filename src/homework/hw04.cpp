@@ -5,6 +5,16 @@ static bool ID4() {
 
     // Add your student ID and message here, in ascending student ID order.
     V.emplace_back("112062102", "Aha is amazing!");
+    V.emplace_back(
+        "112062216",
+        "Looking foward to learn everything about c++ and design pattern! I'm always crazy about how to maintain large scale projects.\
+            Crazy? I was crazy once. They locked me in a room. A rubber room. A rubber room with rats. And rats make me crazy.\
+            Crazy? I was crazy once. They locked me in a room. A rubber room. A rubber room with rats. And rats make me crazy.\
+            Crazy? I was crazy once. They locked me in a room. A rubber room. A rubber room with rats. And rats make me crazy.\
+            Crazy? I was crazy once. They locked me in a room. A rubber room. A rubber room with rats. And rats make me crazy.\
+            Crazy? I was crazy once. They locked me in a room. A rubber room. A rubber room with rats. And rats make me crazy.\
+            Crazy? I was crazy once. They locked me in a room. A rubber room. A rubber room with rats. And rats make me crazy.\
+            Crazy? I was crazy o");
     V.emplace_back("112062337", "teacher and TA are so handsome");
     V.emplace_back("113062301", "IF I WERE DJ WILL YOU LOVE ME?");
     V.emplace_back("114062214", "Cabi Cabi I love Snorlax");
